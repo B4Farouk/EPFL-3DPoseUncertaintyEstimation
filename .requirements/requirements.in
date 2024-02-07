@@ -1,0 +1,35 @@
+# torch and related
+torch==2.0.0
+torchinfo==1.7.2
+torchmetrics==0.11.0
+torchvision==0.15.1
+pytorch-lightning==2.0.1
+
+# graph libs
+dgl==1.1.2
+
+# opencv and related
+open3d==0.17.0
+opencv-contrib-python-headless==4.7.0.72
+opencv-python-headless==4.7.0.72
+
+# tensorflow
+tensorflow==2.14.0
+
+# logging
+tensorboard==2.14.1 # previous: 2.12.1
+tensorboardX==2.6.2.2
+tensorboard-data-server==0.7.1 # previous: 0.7.0
+tensorboard-plugin-wit==1.8.1
+
+# other libs
+scikit-image==0.19.3
+scikit-learn==1.2.1
+scipy==1.10.1
+easydict==1.10
+h5py==3.10.0
+
+# plotting
+seaborn==0.12.2
+matplotlib==3.7.0
+
